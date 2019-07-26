@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 =============================================================
-Welcome to PatternCNV Pipeline Documentation's documentation!
+Welcome to PatternCNV Pipeline Documentation!
 =============================================================
 
 .. toctree::

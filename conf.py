@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'PatternCNV Documentation'
+project = 'PatternCNV'
 copyright = '2019, Chen Wang'
 author = 'Chen Wang'
 
